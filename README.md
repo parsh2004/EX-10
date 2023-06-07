@@ -1,6 +1,6 @@
 # EX-10 APPLICATION USING TCP SOCKETS - FILE TRANSFER PROGRAM
 
-DATE :10-05-2023
+DATE :08-05-2023
 
 # AIM :
 To write a python program for creating File Transfer using TCP Sockets Links.
